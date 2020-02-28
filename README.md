@@ -1,3 +1,3 @@
 # RSS Feed
-##Validate
+## Validate
 [Feed Validator](http://www.feedvalidator.org/)
